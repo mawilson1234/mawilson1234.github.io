@@ -7,7 +7,7 @@ I'm particularly interested in questions relating to verbal argument structure: 
 
 Much of my work has focused on alternations: relationships between clauses that differ in how a verb assigns meanings to its dependents, taken broadly. In recent work, I've investigated how people and language models generalize the use of the active-passive alternation to novel verbs. I've also investigated the syntax and semantics of the _spray_/_load_ alternation and resultatives, and found deep similarities between them that indicate they each involve syntactic argument sharing. My recent psycholinguistic work is focused on understanding how the way in which two types of verbs that assign experiencer roles to one of their arguments affects sentence processing and comprehension.
 
-My overall goal in my research is to develop our understanding of the relationship between syntax and semantics, in particular in the domain of verbal argument structure. If you have a project idea in that area and would be interested in collaborating, feel free to reach out!
+My overall goal in my research is to develop our understanding of the relationship between syntax and semantics, in particular in the domain of verbal argument structure. In doing so, my goal is to develop our understanding of the human language faculty and how it interfaces with cognition more broadly. If that sounds up your alley and you'd be interested in collaborating, feel free to reach out!
 
 ##### Academic history
 
@@ -16,10 +16,10 @@ I'm an assistant professor of computational linguistics at the University of Nev
 ##### Contact info
 
 ###### Address
-Frandsen Humanities 220
-Department of English
-University of Nevada, Reno
-1664 North Virginia Street
+Frandsen Humanities 220<br>
+Department of English<br>
+University of Nevada, Reno<br>
+1664 North Virginia Street<br>
 Reno, Nevada 89557
 
 ###### Email
